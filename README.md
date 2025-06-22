@@ -2,7 +2,7 @@
 
 RarePair is India's first map-enabled, real-time donor-recipient matching platform for rare blood types and organ transplants. Built with modern web technologies and a focus on user experience.
 
-## 🌟 Features
+## Features
 
 - Real-time donor-recipient matching
 - Interactive map visualization
@@ -11,7 +11,7 @@ RarePair is India's first map-enabled, real-time donor-recipient matching platfo
 - Mobile-first responsive design
 - Privacy-focused architecture
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Material-UI, Leaflet.js
 - **Backend**: Node.js, Express.js
@@ -23,7 +23,7 @@ RarePair is India's first map-enabled, real-time donor-recipient matching platfo
 - **Email**: Nodemailer + Brevo/SendGrid
 - **Deployment**: Render
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository
 ```bash
@@ -68,11 +68,11 @@ npm run dev
 npm start
 ```
 
-## 📱 Mobile Responsiveness
+## Mobile Responsiveness
 
 The application is built with a mobile-first approach, ensuring optimal user experience across all devices.
 
-## 🔒 Security
+## Security
 
 - JWT-based authentication
 - Password hashing with bcrypt
@@ -81,11 +81,11 @@ The application is built with a mobile-first approach, ensuring optimal user exp
 - Input sanitization
 - Rate limiting
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
